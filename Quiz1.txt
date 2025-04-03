@@ -1,0 +1,25 @@
+Q1: Write an HTML code that displays all 6 headings with each
+heading on new line having paragraphs and the end
+of each paragraph; place a line (Horizontal Rule).
+
+Q2:Insert image in the webpage with height=30,
+width=30.
+
+Q3: Add Links to At least 5 of social media accounts
+
+Q4: Make the Country Dropdown
+List must contain 7 Countries in Ascending Order. 
+
+Q5: Get a website Ui to your web page at least 2.
+
+Q6: Create a profile form using all the field we have studies in class
+  -Input (with at least 5 type)
+  -Radio button 
+  -Checkboxes
+  -Text area
+  
+  
+
+
+
+
